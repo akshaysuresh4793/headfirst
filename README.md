@@ -4,7 +4,7 @@ Implementation of Head first Java code
 ## Introduction
 Head first Java is an awesome interactive book which makes Java a lot of fun. This repository contains code snippets and projects from this book.
 
-While developing code initially in Java
+While developing code in Java
 
 - Do not forget to indent the code
 
